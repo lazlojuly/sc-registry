@@ -1,4 +1,4 @@
-SocketCluster Sample App
-======
+# Registry
 
-This is a sample SocketCluster app.
+* Created from SocketCluster sample app
+* Responsible for sharing services states and other meta-information
