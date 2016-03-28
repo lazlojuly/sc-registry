@@ -1,0 +1,2 @@
+# sc-registry
+Learning SocketCluster
